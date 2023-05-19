@@ -2,7 +2,7 @@
 
 require __DIR__ . '/bootstrap.php';
 
-use Mexitek\PHPColors\Color;
+use MarcusGaius\Colors\Color;
 use Tester\Assert;
 
 // Test cases.
